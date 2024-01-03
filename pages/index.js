@@ -17,6 +17,7 @@ export default function Home() {
         <p className="description">
         Network maintenance will be carried out from 10:00 PM on January 3, 2024, until 6:30 AM the following day.  During the maintenance period, the Online Application System (OAS) will be temporarily unavailable.  We apologize for any inconvenience caused.
         </p>
+        ::CLOUDFLARE_ERROR_500S_BOX::
       </main>
 
     </div>
